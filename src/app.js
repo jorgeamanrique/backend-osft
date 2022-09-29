@@ -52,6 +52,7 @@ db.initDb((err, db) => {
   }
 });
 
+
 // module.exports=app;
 
 // module.exports.handler = serverless(app);
